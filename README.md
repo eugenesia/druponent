@@ -4,6 +4,7 @@ Drupal 8 profile to create a drupal installation that consume NPM components and
 # Getting started
 To get started you will need:
 * NPM (>= 4)
+* NVM (Node Version Manager): https://github.com/creationix/nvm . To be installed as per the NVM README and not via NPM.
 * Sample components can be found [here](https://www.npmjs.com/~eurostar-npm)
 
 ## Installation
